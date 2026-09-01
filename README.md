@@ -19,5 +19,5 @@ Bioengineering @ HKUST — Extended Major in Artificial Intelligence, Minor in C
   - Student initiatives within the Department of Chemical and Biological Engineering (CBE) at HKUST.
 
 - 📫 **How to reach me:** 
-  - Email: `edwardyung00852@gmail.com` or `hyyungaf@connect.ust.hk`
+  - Email: `edwardyung00852@gmail.com`
   - LinkedIn: [Ho Yin (Edward) Yung](https://www.linkedin.com/in/ho-yin-yung-1ba096385)
