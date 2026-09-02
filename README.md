@@ -6,7 +6,7 @@ Bioengineering @ HKUST — Extended Major in Artificial Intelligence, Minor in C
 
 - 🔬 **I’m currently working on:** 
   - Developing a grass-based composite paired with biodegradable binders as an ethical leather alternative.
-  - Nothing on Github
+  - Getting used to Github XD
 
 - 🌱 **I’m currently learning:** 
   - AI for Chem
